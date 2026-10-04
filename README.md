@@ -26,8 +26,4 @@ Onshape: https://cad.onshape.com/documents/b3e277023751932570a8d61b/w/5047929bae
 
 
 
-<img width="1470" height="831" alt="Screenshot 2026-10-04 at 1 06 24 PM" src="https://github.com/user-attachments/assets/580fe5ab-1356-4cba-8ad1-722b4f3fdb55" />  
-
-<img width="1470" height="835" alt="Screenshot 2026-10-04 at 1 06 42 PM" src="https://github.com/user-attachments/assets/473e6e02-9da1-437c-a6c7-09a7d8d1ddbf" /> 
-STEP: https://cad.onshape.com/api/documents/d/b3e277023751932570a8d61b/foreigndata/6ac2b5c769c888fac58729ef
 
