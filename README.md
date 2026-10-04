@@ -24,23 +24,7 @@ This repository will document the development of the cyberdeck from the initial 
 The current focus is selecting the major components, creating the initial bill of materials, and developing the enclosure layout. Once the major components are finalized, detailed CAD and assembly work will begin.
 Onshape: https://cad.onshape.com/documents/b3e277023751932570a8d61b/w/5047929bae726e049ca152d7/e/d479e7eb3d608c97a056d552
 
-## Bill of Materials(customizable_)
 
-| Part                       | Link                                                                                            |  Price | Verified STEP? |
-| -------------------------- | ----------------------------------------------------------------------------------------------- | -----: | :------------: |
-| SBC — Orange Pi Zero 3     | https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-Zero-3.html                                                                                     |    TBD |       TBD      |
-| Elecrow 7" Touchscreen     | [Product Page](https://www.elecrow.com/7-inch-1024-600-hdmi-lcd-display-with-touch-screen.html) | $41.90 |      ✅ Yes     |
-| Speakers                   | [SameSky Devices](https://www.sameskydevices.com/cart/purchases)                                | $11.14 |      ✅ Yes     |
-| Power                      | https://www.walmart.com/ip/mophie-Universal-Battery-power-boost-10K-FG-BLK-WM2025/14822055853?adsRedirect=true                                                                                           |    TBD |       TBD      |
-| Keyboard — Keychron B1 Pro | [Product Page](https://www.keychron.com/products/keychron-b1-pro-ultra-slim-wireless-keyboard)  | $39.99 |      ✅ Yes     |
-| Storage                    | https://www.walmart.com/ip/SanDisk-ImageMate-64GB-SDXC-Flash-Memory-Card/429347181?classType=VARIANT&athbdg=L1200&from=/search                                                                                           |    TBD |       TBD      |
-| Enclosure                  | Custom CAD / 3D Printed                                                                         |    TBD |       N/A      |
-
-### BOM Notes
-
-The BOM will be updated as components are selected and verified. A component is marked as **Verified STEP** when a usable STEP/STP CAD model has been located and can be imported into the cyberdeck's Onshape assembly.
-
-The enclosure will be custom-designed specifically around the selected components. CAD files and additional hardware such as screws, standoffs, heat-set inserts, and mounting hardware will be added as the mechanical design develops.
 
 <img width="1470" height="831" alt="Screenshot 2026-10-04 at 1 06 24 PM" src="https://github.com/user-attachments/assets/580fe5ab-1356-4cba-8ad1-722b4f3fdb55" />  
 
