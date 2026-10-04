@@ -1,10 +1,14 @@
-# CAD Overview
+# CAD Files
 
-This page is the visual reference for the current cyberdeck concept.
+This file is a compatibility stub. The usable CAD assets are stored in the `cad/` folder.
 
-The repository now includes a dedicated CAD folder for model files and export assets:
+Use this link for the actual model directory:
 
 - [cad/](./cad)
+
+For GitHub browsing, the correct folder URL is:
+
+- https://github.com/mailashwinb-sketch/cyberdeck/tree/main/cad
 
 ## Reference Images
 
@@ -14,6 +18,6 @@ The repository now includes a dedicated CAD folder for model files and export as
 
 ## Notes
 
-- This file is kept as a readable design reference for GitHub viewers.
-- The actual 3D model files should live in the `cad/` folder as STEP or native CAD exports.
-- The repo is structured so users can browse and download the design assets in a dedicated location.
+- The repository should use a real directory named `cad/` for model files.
+- STEP files should be uploaded into `cad/` or subfolders such as `cad/assembly/` and `cad/components/`.
+- This file remains only as a notice so the old `CAD` path still has useful information.

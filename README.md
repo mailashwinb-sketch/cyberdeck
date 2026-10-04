@@ -1,8 +1,8 @@
 # Cyberdeck
 
-This project is a custom-built cyberdeck designed to combine portable computing, electronics, and mechanical engineering into one compact device.
+This project is a custom-built cyberdeck designed to combine portable computing, electronics, and mechanical engineering in one compact device.
 
-The goal is to create a functional portable computer with a custom enclosure, integrated controls, and a design that is easy to iterate on as the project evolves.
+The goal is to create a functional portable computer with a custom enclosure, integrated controls, and a design that is easy to iterate on as the project advances.
 
 ## Project Goals
 
@@ -16,20 +16,18 @@ The goal is to create a functional portable computer with a custom enclosure, in
 
 Project stage: Planning / CAD
 
-The current focus is selecting major components, refining the enclosure layout, and creating the initial CAD concept. The design will continue to evolve as the electronics and mechanical fit are validated.
+The current focus is selecting major components, refining the enclosure layout, and developing the initial CAD concept. The design will continue to evolve as the electronics and mechanical fit are validated.
 
 Onshape: https://cad.onshape.com/documents/b3e277023751932570a8d61b/w/5047929bae726e049ca152d7/e/d479e7eb3d608c97a056d552
 
-## CAD
+## CAD Files
 
-The CAD design files and reference images are here:
+Browse the model files and reference docs here:
 
-- [CAD overview](./CAD)
-- [CAD model folder](./cad)
+- [CAD folder](./cad)
+- [CAD reference page](./cad/README.md)
 
 ## Design References
-
-These images show the current concept and enclosure direction:
 
 ![Cyberdeck concept front view](https://github.com/user-attachments/assets/580fe5ab-1356-4cba-8ad1-722b4f3fdb55)
 

@@ -1,26 +1,39 @@
 # CAD Models
 
-This folder is intended to hold the 3D CAD assets for the cyberdeck project, including exported STEP files and design references.
+This folder holds the cyberdeck design files and exported model data.
 
-## Suggested structure
+## Directory Layout
 
-- `cad/` - main CAD directory
-- `cad/*.step` - STEP exports for assembly and components
-- `cad/README.md` - documentation and model notes
+Use a structure like this as the project evolves:
 
-## Current status
+```text
+cad/
+  README.md
+  assembly/
+    cyberdeck_assembly.step
+  components/
+    chassis.step
+    keyboard.step
+    display_mount.step
+  renders/
+    front-view.png
+    side-view.png
+```
 
-This folder is ready for model uploads. Add the exported STEP files here as they are generated.
+## Current Reference Images
 
-Example:
+![Front view](https://github.com/user-attachments/assets/580fe5ab-1356-4cba-8ad1-722b4f3fdb55)
 
-- `cad/cyberdeck_assembly.step`
-- `cad/chassis.step`
-- `cad/keyboard.step`
-- `cad/display_mount.step`
+![Side view](https://github.com/user-attachments/assets/473e6e02-9da1-437c-a6c7-09a7d8d1ddbf)
 
-## Files
+## Uploading STEP Files
 
-- None uploaded yet
+The model files should be placed directly in the `cad/` directory or in subfolders such as `cad/assembly/` and `cad/components/`.
 
-Once the models are exported, users will be able to browse this folder directly on GitHub and download the STEP files.
+GitHub will allow users to browse and download these files from the repository once they are added.
+
+## Notes
+
+- Keep filenames simple and descriptive
+- Prefer `.step` for compatibility with most CAD tools
+- Version the design files as they change
