@@ -31,9 +31,9 @@ Onshape: https://cad.onshape.com/documents/b3e277023751932570a8d61b/w/5047929bae
 | SBC — Orange Pi Zero 3     | https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-Zero-3.html                                                                                     |    TBD |       TBD      |
 | Elecrow 7" Touchscreen     | [Product Page](https://www.elecrow.com/7-inch-1024-600-hdmi-lcd-display-with-touch-screen.html) | $41.90 |      ✅ Yes     |
 | Speakers                   | [SameSky Devices](https://www.sameskydevices.com/cart/purchases)                                | $11.14 |      ✅ Yes     |
-| Power                      | TBD                                                                                             |    TBD |       TBD      |
+| Power                      | https://www.walmart.com/ip/mophie-Universal-Battery-power-boost-10K-FG-BLK-WM2025/14822055853?adsRedirect=true                                                                                           |    TBD |       TBD      |
 | Keyboard — Keychron B1 Pro | [Product Page](https://www.keychron.com/products/keychron-b1-pro-ultra-slim-wireless-keyboard)  | $39.99 |      ✅ Yes     |
-| Storage                    | TBD                                                                                             |    TBD |       TBD      |
+| Storage                    | https://www.walmart.com/ip/SanDisk-ImageMate-64GB-SDXC-Flash-Memory-Card/429347181?classType=VARIANT&athbdg=L1200&from=/search                                                                                           |    TBD |       TBD      |
 | Enclosure                  | Custom CAD / 3D Printed                                                                         |    TBD |       N/A      |
 
 ### BOM Notes
