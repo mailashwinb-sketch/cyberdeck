@@ -28,7 +28,7 @@ Onshape: https://cad.onshape.com/documents/b3e277023751932570a8d61b/w/5047929bae
 
 | Part                       | Link                                                                                            |  Price | Verified STEP? |
 | -------------------------- | ----------------------------------------------------------------------------------------------- | -----: | :------------: |
-| SBC — Orange Pi Zero 3     | TBD                                                                                             |    TBD |       TBD      |
+| SBC — Orange Pi Zero 3     | https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-Zero-3.html                                                                                     |    TBD |       TBD      |
 | Elecrow 7" Touchscreen     | [Product Page](https://www.elecrow.com/7-inch-1024-600-hdmi-lcd-display-with-touch-screen.html) | $41.90 |      ✅ Yes     |
 | Speakers                   | [SameSky Devices](https://www.sameskydevices.com/cart/purchases)                                | $11.14 |      ✅ Yes     |
 | Power                      | TBD                                                                                             |    TBD |       TBD      |
