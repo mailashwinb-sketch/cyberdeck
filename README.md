@@ -1,38 +1,43 @@
 # Cyberdeck
 
-This project is a custom-built cyberdeck designed to combine portable computing, electronics, and mechanical engineering into one compact device. The goal is to create a functional portable computer with a touchscreen display, physical keyboard, custom controls, and a fully custom-designed enclosure.
+This project is a custom-built cyberdeck designed to combine portable computing, electronics, and mechanical engineering into one compact device.
 
-The cyberdeck is being designed from the ground up in CAD, with the enclosure and mounting systems modeled to fit the specific electronic components being used. The design will include mounting points for the single-board computer, display, keyboard, power system, speakers, and other electronics. The enclosure will be designed for 3D printing and assembled using screws, standoffs, and heat-set inserts where appropriate.
-
-The electronics will be centered around a single-board computer and will include a touchscreen display, keyboard, portable power system, and various additional controls. Future versions may include rotary encoders, buttons, status LEDs, speakers, and other custom electronics. The goal is to make the system modular so that individual components can be replaced or upgraded without redesigning the entire enclosure.
-
-This repository will document the development of the cyberdeck from the initial concept through CAD, electronics, assembly, testing, and future improvements. CAD files, diagrams, documentation, BOMs, and build notes will be added as the project progresses. Each major design change will be documented to show how the project develops from an initial concept into a working device.
+The goal is to create a functional portable computer with a custom enclosure, integrated controls, and a design that is easy to iterate on as the project evolves.
 
 ## Project Goals
 
-* Build a functional portable computer
-* Design a custom enclosure from scratch
-* Learn and apply mechanical CAD and electronics skills
-* Create a modular and repairable design
-* Document the entire engineering process
-* Produce a finished, working cyberdeck
+- Build a functional portable computer
+- Design a custom enclosure from scratch
+- Learn and apply mechanical CAD and electronics skills
+- Create a modular and repairable design
+- Document the engineering process from concept to build
 
 ## Current Status
 
-**Project stage:** Planning / CAD
+Project stage: Planning / CAD
 
-The current focus is selecting the major components, creating the initial bill of materials, and developing the enclosure layout. Once the major components are finalized, detailed CAD and assembly work will begin.
+The current focus is selecting major components, refining the enclosure layout, and creating the initial CAD concept. The design will continue to evolve as the electronics and mechanical fit are validated.
+
 Onshape: https://cad.onshape.com/documents/b3e277023751932570a8d61b/w/5047929bae726e049ca152d7/e/d479e7eb3d608c97a056d552
 
-<img width="1470" height="835" alt="Screenshot 2026-10-04 at 1 06 42 PM" src="https://github.com/user-attachments/assets/4fe21e90-179a-4a64-a535-53d7f5a09b15" />
+## CAD
 
-<img width="1470" height="843" alt="Screenshot 2026-10-04 at 1 06 34 PM" src="https://github.com/user-attachments/assets/77b63891-c5e7-45e7-8ac1-3bda60b240b0" />
+The CAD design files and reference images are here:
 
-<img width="1470" height="831" alt="Screenshot 2026-10-04 at 1 06 24 PM" src="https://github.com/user-attachments/assets/1431e959-8fef-4437-bcd7-7714946eb827" />
+- [CAD overview](./CAD)
+- [CAD model folder](./cad)
 
+## Design References
 
+These images show the current concept and enclosure direction:
 
+![Cyberdeck concept front view](https://github.com/user-attachments/assets/580fe5ab-1356-4cba-8ad1-722b4f3fdb55)
 
+![Cyberdeck concept side view](https://github.com/user-attachments/assets/473e6e02-9da1-437c-a6c7-09a7d8d1ddbf)
 
+## Future Work
 
-
+- Finalize component layout and enclosure dimensions
+- Create a more detailed CAD model
+- Export and version STEP files for fabrication and iteration
+- Add BOM, wiring diagrams, and assembly notes

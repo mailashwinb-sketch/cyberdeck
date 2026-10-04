@@ -1,5 +1,19 @@
+# CAD Overview
 
+This page is the visual reference for the current cyberdeck concept.
 
-<img width="1470" height="831" alt="Screenshot 2026-10-04 at 1 06 24 PM" src="https://github.com/user-attachments/assets/580fe5ab-1356-4cba-8ad1-722b4f3fdb55" />  
+The repository now includes a dedicated CAD folder for model files and export assets:
 
-<img width="1470" height="835" alt="Screenshot 2026-10-04 at 1 06 42 PM" src="https://github.com/user-attachments/assets/473e6e02-9da1-437c-a6c7-09a7d8d1ddbf" /> 
+- [cad/](./cad)
+
+## Reference Images
+
+![Front view](https://github.com/user-attachments/assets/580fe5ab-1356-4cba-8ad1-722b4f3fdb55)
+
+![Side view](https://github.com/user-attachments/assets/473e6e02-9da1-437c-a6c7-09a7d8d1ddbf)
+
+## Notes
+
+- This file is kept as a readable design reference for GitHub viewers.
+- The actual 3D model files should live in the `cad/` folder as STEP or native CAD exports.
+- The repo is structured so users can browse and download the design assets in a dedicated location.
